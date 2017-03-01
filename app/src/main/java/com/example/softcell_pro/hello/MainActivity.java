@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     public final static String EXTRA_MESSAGE = "MESSAGE";
     private ProgressDialog pDialog;
     private ListView lv;
-    private static String url="http://catkin.us/mobile/api/admin/getDataApi";
+    private static String url="";
     private static final String TAG_CATEGORY = "category";
     private static final String TAG_CID = "cid";
     private static final String TAG_COUNTRY = "country";
